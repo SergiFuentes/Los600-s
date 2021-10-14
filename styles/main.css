@@ -3,6 +3,9 @@
 @import 'reset.css';
 @import './variables.css';
 @import './components/main_components.css';
+
+
+
 /*view port*/
 /*
 h1 {
@@ -14,4 +17,7 @@ h1 {
 
 body {
     background-color: var(--background_color);
+    height: 100vh;
+    display: flex;
+    align-items: flex-end;
 }
