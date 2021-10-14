@@ -1,0 +1,29 @@
+@import '../MrDafoe-Regular.ttf';
+
+
+.logo {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  flex-direction: column;
+  padding-left: 35%;
+  padding-right: 20%;
+  padding-top:8%
+}
+
+.overPosition {
+    position: absolute;
+    top: 32%;
+    transform: matrix(0.8, -0.29, 0.92, 0.9, 0, 0);
+    font-family: monospace;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: -0.12em;
+    font-size: 81px;
+    line-height: 128px;
+}
+
+.styleCar {
+  width: 500px;
+  
+}
