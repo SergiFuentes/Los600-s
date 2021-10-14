@@ -1,6 +1,7 @@
 .styleFooter {
   background: rgba(230, 207, 174, 0.68);
   padding: 20px;
-  display: flex;justify-content: center;
+  display: flex;
+  justify-content: center;
   width: 100%;
 }
