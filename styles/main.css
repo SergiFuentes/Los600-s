@@ -18,6 +18,5 @@ h1 {
 body {
     background-color: var(--background_color);
     height: 100vh;
-    display: flex;
-    align-items: flex-end;
 }
+
