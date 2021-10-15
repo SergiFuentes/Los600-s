@@ -1,12 +1,8 @@
-/* solo importaciones */
-
 @import 'reset.css';
 @import './variables.css';
 @import './components/main_components.css';
 
 
-
-/*view port*/
 * {
     overflow: hidden;  
 }
@@ -19,12 +15,8 @@ body {
     height: 100vh;
 }
 
-section {
+.container {
     box-sizing: border-box;
 }
 
-/*.background{
-    
-    height: 100vh;
-}*/
 
